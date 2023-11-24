@@ -1,0 +1,16 @@
+a) Tab "Code" (Mã nguồn):
+
+Mô tả: Tab này hiển thị toàn bộ mã nguồn của dự án.
+Hình minh họa: Đưa ra ví dụ về cách tìm và xem mã nguồn, thay đổi giữa các nhánh (branches).
+b) Tab "Issues" (Vấn đề):
+
+Mô tả: Tab này được sử dụng để theo dõi và quản lý vấn đề của dự án.
+Hình minh họa: Ví dụ về cách tạo vấn đề mới, gán vấn đề cho thành viên khác, và bình luận trong vấn đề.
+c) Tab "Pull Requests" (Yêu cầu kéo):
+
+Mô tả: Tab này cho phép xem và quản lý các yêu cầu kéo từ các nhánh khác nhau.
+Hình minh họa: Cách tạo và đánh giá yêu cầu kéo, giải quyết xung đột.
+d) Tab "Projects" (Dự án):
+
+Mô tả: Tab này giúp tổ chức công việc thành các dự án và theo dõi tiến độ.
+Hình minh họa: Ví dụ về cách sử dụng dự án để quản lý công việc.
